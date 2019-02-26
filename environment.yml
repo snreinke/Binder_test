@@ -1,0 +1,7 @@
+name: TEST
+channels:
+  - defaults
+dependencies:
+  - numpy
+  
+prefix: /anaconda3/envs/cimcb
